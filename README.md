@@ -1,4 +1,4 @@
-# Covid-vacciation-analysis-India
+# Covid-vaccination-analysis-of-India
 Data available in the analysis is from 16th Jan to 7th of June.
 
 Each and every state's statistics for doses administered are given and specifically compared with its population(latest estimated).
